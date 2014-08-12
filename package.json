@@ -1,0 +1,17 @@
+{
+  "name": "node-zlib-stream-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "memwatch": "^0.2.2"
+  }
+}
